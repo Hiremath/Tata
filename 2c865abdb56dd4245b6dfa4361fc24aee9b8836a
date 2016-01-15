@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa81d914_e84a3d82",
+        "filename": "note1.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1003674
+      },
+      "writtenOn": "2016-01-15T11:25:59Z",
+      "side": 1,
+      "message": "Looks like Change1  and Change2 are not correct naming conventions",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 2,
+        "endChar": 7
+      },
+      "revId": "2c865abdb56dd4245b6dfa4361fc24aee9b8836a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
